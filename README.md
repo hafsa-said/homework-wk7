@@ -27,7 +27,7 @@ https://api.artic.edu/docs/
 When creating tables, we often do not have unique identifiers within the table, hence we face difficulty in choosing Primary Key. To resolve this, we would have to manually provide unique keys to every record, a tedious task .So we can use Auto Increment feature that automatically generates a numerical Primary key value for every new record inserted. 
 
 
-Subqueries return either scalar (single) values or a row set; whereas, joins return rows
+Subqueries return either scalar (single) values or a row set; whereas, joins return rows. When you create a subquery, it is usually within the where clause with a select statement. When you create a join, it will combine records from multiple tables in the from clause. 
 
 # Joining data
 ![](https://github.com/hafsa-said/homework-wk7/blob/main/joining_data_sql.JPG)
