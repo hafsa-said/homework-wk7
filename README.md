@@ -13,7 +13,7 @@
 
 *Obsolete data - make sure theres a column to make sure we can follow last time data was updated
 
-*Data/Organizational inconsistency - Make sure we are following all correct industry practices, and using correct data
+* Data/Organizational inconsistency - Make sure we are following all correct industry practices, and using correct data
 =======================================
 **Question 3**
 Interesting apis:
