@@ -30,9 +30,9 @@ When creating tables, we often do not have unique identifiers within the table, 
 Subqueries return either scalar (single) values or a row set; whereas, joins return rows
 
 # Joining data
-![]https://github.com/hafsa-said/homework-wk7/blob/main/joining_data_sql.JPG
+![](https://github.com/hafsa-said/homework-wk7/blob/main/joining_data_sql.JPG)
 
 # Intermediate sql
-![]https://github.com/hafsa-said/homework-wk7/blob/main/intermediate_sql.JPG
+![](https://github.com/hafsa-said/homework-wk7/blob/main/intermediate_sql.JPG)
 
 
